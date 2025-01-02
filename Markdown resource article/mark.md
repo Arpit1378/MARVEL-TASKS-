@@ -15,5 +15,7 @@
 
 
 ```
-Quick Facts: Aditya-L1 will stay approximately 1.5 million km away from Earth, directed towards the Sun, which is about 1% of the Earth-Sun distance. The Sun is a giant sphere of gas and Aditya-L1 would study the outer atmosphere of the Sun. Aditya-L1 will neither land on the Sun nor approach the Sun any closer.*
+Quick Facts: Aditya-L1 will stay approximately 1.5 million km away from Earth, directed towards the Sun, which is about 1% of the Earth-Sun distance.
+The Sun is a giant sphere of gas and Aditya-L1 would study the outer atmosphere of the Sun.
+Aditya-L1 will neither land on the Sun nor approach the Sun any closer.
 ```
